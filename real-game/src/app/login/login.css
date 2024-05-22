@@ -1,0 +1,12 @@
+.login_btn{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    height: 100%;
+    align-items: center;
+}
+
+.login_btn div a {
+    border: 1px solid #568;
+    padding: 2px 5px;
+}
